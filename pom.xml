@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.awsapp</groupId>
   <artifactId>awsapp</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>1-SNAPSHOT</version>
   <name>awsapp</name>
   <url>http://maven.apache.org</url>
